@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Product price 1",
+    'name': "Product price 10",
 
     'summary': """
         agregar un nuevo campo para precio 2 en el form del producto
